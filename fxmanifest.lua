@@ -86,6 +86,7 @@ dependencies {
 -- FILES
 -- ═══════════════════════════════════════════════════════════════════════════════
 
-files {
-    'locales/*.lua'
-}
+-- Localization handled in shared/locale.lua
+-- files {
+--     'locales/*.lua'
+-- }
